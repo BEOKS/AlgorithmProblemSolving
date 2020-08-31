@@ -22,7 +22,7 @@ int solve(int n, bool isFriend[MAXN][MAXN], bool* isSelected) {
 	}
 	return sum;
 }
-int main() {
+void picnic() {
 	int c;
 	cin >> c;
 	for (int i = 0; i < c; i++) {

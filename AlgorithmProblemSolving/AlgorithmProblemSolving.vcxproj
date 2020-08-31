@@ -139,7 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BOARDCOVER.cpp" />
     <ClCompile Include="PICNIC.cpp" />
+    <ClCompile Include="RUN.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="boardCover.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
