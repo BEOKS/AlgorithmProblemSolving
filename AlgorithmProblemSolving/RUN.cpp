@@ -1,5 +1,5 @@
 #include <iostream>
-#include "boardCover.h"
+#include "header.h"
 int main() {
-	boardCover();
+	clockSync();
 }
