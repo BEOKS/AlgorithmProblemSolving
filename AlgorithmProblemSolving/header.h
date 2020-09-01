@@ -2,3 +2,5 @@
 void clockSync();
 void boardCover();
 void picnic();
+//Divide - Conquer
+void quadTree();

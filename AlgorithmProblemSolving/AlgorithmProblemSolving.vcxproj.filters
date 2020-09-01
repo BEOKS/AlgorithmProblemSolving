@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Brute-Force">
       <UniqueIdentifier>{1958db8a-a909-452c-a5f8-552c29d61b0c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Divide-Conquer">
+      <UniqueIdentifier>{88332a12-baaf-4c9b-8d1c-29117d12ae6a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PICNIC.cpp">
@@ -29,6 +32,9 @@
     </ClCompile>
     <ClCompile Include="CLOCKSYNC.cpp">
       <Filter>소스 파일\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="QUADTREE.cpp">
+      <Filter>소스 파일\Divide-Conquer</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
