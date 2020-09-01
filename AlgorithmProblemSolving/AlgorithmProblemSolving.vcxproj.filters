@@ -36,6 +36,9 @@
     <ClCompile Include="QUADTREE.cpp">
       <Filter>소스 파일\Divide-Conquer</Filter>
     </ClCompile>
+    <ClCompile Include="FENCE.cpp">
+      <Filter>소스 파일\Divide-Conquer</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">

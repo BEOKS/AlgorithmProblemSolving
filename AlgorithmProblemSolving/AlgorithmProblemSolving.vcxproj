@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BOARDCOVER.cpp" />
+    <ClCompile Include="FENCE.cpp" />
     <ClCompile Include="PICNIC.cpp" />
     <ClCompile Include="QUADTREE.cpp" />
     <ClCompile Include="RUN.cpp" />
