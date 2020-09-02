@@ -145,6 +145,7 @@
     <ClCompile Include="QUADTREE.cpp" />
     <ClCompile Include="RUN.cpp" />
     <ClCompile Include="CLOCKSYNC.cpp" />
+    <ClCompile Include="WILDCARD.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />

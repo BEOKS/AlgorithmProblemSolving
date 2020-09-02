@@ -5,3 +5,5 @@ void picnic();
 //Divide - Conquer
 void quadTree();
 void fence();
+//DP
+void wildCard();

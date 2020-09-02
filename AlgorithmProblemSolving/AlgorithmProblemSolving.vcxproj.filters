@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Divide-Conquer">
       <UniqueIdentifier>{88332a12-baaf-4c9b-8d1c-29117d12ae6a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DynamicProgramming">
+      <UniqueIdentifier>{bcf66909-52a9-469d-bd23-f096973aefc9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PICNIC.cpp">
@@ -38,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="FENCE.cpp">
       <Filter>소스 파일\Divide-Conquer</Filter>
+    </ClCompile>
+    <ClCompile Include="WILDCARD.cpp">
+      <Filter>소스 파일\DynamicProgramming</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
