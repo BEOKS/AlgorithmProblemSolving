@@ -30,6 +30,7 @@ int solve(int i1, int i2) {
 	}
 	//no pick
 	ret = max(ret, solve(i1 + 1, i2 + 1));
+	return ret;
 }
 void jlis() {
 	int c;

@@ -3,9 +3,9 @@
 #include <algorithm>
 using namespace std;
 string wildPat, str;
-int cache[101][101];
+int cache1[101][101];
 bool check(int wildPatIndex, int strIndex) {
-	int& ret = cache[wildPatIndex][strIndex];
+	int& ret = cache1[wildPatIndex][strIndex];
 	if (ret != -1) {
 		return ret;
 	}
@@ -26,7 +26,7 @@ void wildCard() {
 	int c;
 	cin >> c;
 	for (int t = 0; t < c; t++) {
-		fill(&cache[0][0], &cache[100][100]+1, -1);
+		fill(&cache1[0][0], &cache1[100][100]+1, -1);
 		cin >> wildPat;
 		int n;
 		cin >> n;

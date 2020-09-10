@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 vector<int> board;
-int solve(int left,int right) {
+int solve1(int left,int right) {
 	if (right < left)	return -1;
 	if (left == right) {
 		return board[left];
@@ -16,8 +16,8 @@ int solve(int left,int right) {
 		}
 	}
 	int ret = minV * (right-left + 1);
-	ret = max(ret, solve(left, mini-1));
-	ret = max(ret, solve(mini+1, right));
+	ret = max(ret, solve1(left, mini-1));
+	ret = max(ret, solve1(mini+1, right));
 	return ret;
 }
 void fence() {
@@ -32,6 +32,6 @@ void fence() {
 			cin >> temp;
 			board.push_back(temp);
 		}
-	cout << solve(0,board.size()-1) << "\n";
+	cout << solve1(0,board.size()-1) << "\n";
 	}
 }
