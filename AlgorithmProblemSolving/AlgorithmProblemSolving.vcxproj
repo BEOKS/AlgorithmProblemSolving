@@ -145,6 +145,7 @@
     <ClCompile Include="PI.cpp" />
     <ClCompile Include="PICNIC.cpp" />
     <ClCompile Include="QUADTREE.cpp" />
+    <ClCompile Include="QUANTIZE.cpp" />
     <ClCompile Include="RUN.cpp" />
     <ClCompile Include="CLOCKSYNC.cpp" />
     <ClCompile Include="WILDCARD.cpp" />

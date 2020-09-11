@@ -7,5 +7,5 @@ void quadTree();
 void fence();
 //DP
 void wildCard();
-void jlis();
 void PI();
+void QUANTIZE();
