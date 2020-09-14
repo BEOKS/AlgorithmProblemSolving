@@ -144,6 +144,7 @@
     <ClCompile Include="JLIS.cpp" />
     <ClCompile Include="PI.cpp" />
     <ClCompile Include="PICNIC.cpp" />
+    <ClCompile Include="POLY.cpp" />
     <ClCompile Include="QUADTREE.cpp" />
     <ClCompile Include="QUANTIZE.cpp" />
     <ClCompile Include="RUN.cpp" />

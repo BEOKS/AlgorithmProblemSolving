@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 //Brute Force
 void clockSync();
 void boardCover();
