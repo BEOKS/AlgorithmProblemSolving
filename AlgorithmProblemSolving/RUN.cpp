@@ -1,8 +1,8 @@
 #include "header.h"
-#include <vector>
-
-using namespace std;
-
 int main() {
-    QUANTIZE();
+    int t;
+    cin >> t;
+    for (int i = 0; i < t; i++) {
+        NUMB3RS();
+    }
 }

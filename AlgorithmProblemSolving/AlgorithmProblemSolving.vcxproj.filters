@@ -57,6 +57,9 @@
     <ClCompile Include="POLY.cpp">
       <Filter>소스 파일\DynamicProgramming</Filter>
     </ClCompile>
+    <ClCompile Include="NUMB3RS.cpp">
+      <Filter>소스 파일\DynamicProgramming</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">

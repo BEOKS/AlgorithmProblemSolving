@@ -8,6 +8,7 @@ void picnic();
 void quadTree();
 void fence();
 //DP
+void NUMB3RS();
 void wildCard();
 void PI();
 void QUANTIZE();

@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 using namespace std;
 int cache[101][101];
@@ -27,3 +28,4 @@ void POLY() {
 		cout << solve(n+1,1);
 	}
 }
+*/
