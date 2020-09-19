@@ -143,6 +143,7 @@
     <ClCompile Include="FENCE.cpp" />
     <ClCompile Include="JLIS.cpp" />
     <ClCompile Include="NUMB3RS.cpp" />
+    <ClCompile Include="PACKING.cpp" />
     <ClCompile Include="PI.cpp" />
     <ClCompile Include="PICNIC.cpp" />
     <ClCompile Include="POLY.cpp" />
