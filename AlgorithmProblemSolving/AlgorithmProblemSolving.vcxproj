@@ -142,6 +142,7 @@
     <ClCompile Include="BOARDCOVER.cpp" />
     <ClCompile Include="FENCE.cpp" />
     <ClCompile Include="JLIS.cpp" />
+    <ClCompile Include="MORSE.cpp" />
     <ClCompile Include="NUMB3RS.cpp" />
     <ClCompile Include="OCR.cpp" />
     <ClCompile Include="PACKING.cpp" />
