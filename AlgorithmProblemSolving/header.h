@@ -13,3 +13,4 @@ void wildCard();
 void PI();
 void QUANTIZE();
 void PACKING();
+void OCR();
