@@ -13,5 +13,7 @@ void wildCard();
 void PI();
 void QUANTIZE();
 void PACKING();
+//DPT
 void OCR();
 void MORSE();
+void KLIS();

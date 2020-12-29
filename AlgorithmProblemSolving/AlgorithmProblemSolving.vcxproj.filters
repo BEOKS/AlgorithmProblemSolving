@@ -72,6 +72,9 @@
     <ClCompile Include="MORSE.cpp">
       <Filter>소스 파일\DynamicProgrammingTechnique</Filter>
     </ClCompile>
+    <ClCompile Include="KLIS.cpp">
+      <Filter>소스 파일\DynamicProgrammingTechnique</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
